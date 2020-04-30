@@ -1,10 +1,11 @@
-Branched from apache master branch 28th of April, version 4.0.0.0-dev.
-Includes fix for iPhone X statusbar.
-
 ---
 title: Inappbrowser
 description: Open an in-app browser window.
 ---
+
+Branched from apache master branch 28th of April, version 4.0.0.0-dev.
+Includes fix for iPhone X statusbar.
+
 <!--
 # license: Licensed to the Apache Software Foundation (ASF) under one
 #         or more contributor license agreements.  See the NOTICE file
